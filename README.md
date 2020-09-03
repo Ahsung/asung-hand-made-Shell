@@ -9,4 +9,4 @@ this is simillar to Bourne shell, but it does not perform like interpreter. JUST
 
 <br>
 <br>
-![example.png](./example.png)
+![example.png](example.png)
